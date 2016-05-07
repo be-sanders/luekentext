@@ -23,10 +23,11 @@
              (regexp-quote (widget-get widget :correct))
              "$")
      (widget-value widget))
-    (message "Correct!") 
-    (goto-char (- (line-end-position) 1))
+    (message "Correct!")
     (goto-char (widget-field-start widget))
+    (goto-char (- (line-end-position) 1))    
     (insert "✓")
+    (widget-forward 1)
     )
    (t (message "Wrong!"))))
 
