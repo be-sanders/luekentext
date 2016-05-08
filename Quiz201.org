@@ -1,0 +1,20 @@
+#+TITLE: Adjektivendungen
+
+* Adjectivendungen
+
+| Kasus | Masc.   | Fem.    | Neu.    | Pl.     |
+|       |         |         |         |         |
+| Nom.  | [r]/[e] | [e]/[e] | [s]/[e] | [e]/[n] |
+| Acc.  | [n]/[n] | [e]/[e] | [s]/[e] | [e]/[n] |
+| Dat.  | [m]/[n] | [r]/[n] | [m]/[n] | [n]/[n] |
+| Gen.  | [s]/[n] | [r]/[n] | [s]/[n] | [r]/[n] |
+
+* Relativpronomen
+
+| Kasus | Masc.    | Fem.    | Neu.     | Pl.     |
+|       |          |         |          |         |
+| Nom.  | [der]    | [die]   | [das]    | [die]   |
+| Acc.  | [den]    | [die]   | [den]    | [die]   |
+| Dat.  | [dem]    | [der]   | [dem]    | [denen] |
+| Gen.  | [diesen] | [deren] | [dessen] | [deren] |
+
