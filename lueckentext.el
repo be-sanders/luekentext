@@ -8,7 +8,9 @@
 (setq my-name "Brian")
 
 (defun brian/initialize-sample()
-  (insert "In einem groß[en] Haus lebten eine grau[e] Katze und eine braun[e] Maus."))
+  ;;(insert "In einem groß[en] Haus lebten eine grau[e] Katze und eine braun[e] Maus.")
+  (insert-file-contents "Quiz201.org")
+  )
 
 (defun brian/check-answer-correct (widget &rest ignore)
   "Check the value of the widget for right or wrong."
