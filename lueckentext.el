@@ -43,7 +43,7 @@
   (interactive)
   ;;  (with-current-buffer (get-buffer-create "*test3*")
   (setq my_buffer_name buffer-file-name)
-  (switch-to-buffer-other-window "*test3*")
+  (switch-to-buffer-other-window "*test1*")
   (kill-all-local-variables)
   (let ((inhibit-read-only t))
     (erase-buffer))
@@ -61,7 +61,7 @@
         (delete-char (length answer))
         
         (widget-create 'editable-field
-                       :size 7
+                       :size (+ (length answer) 1)
                        :format "%v"
                        :action 'brian/check-answer-correct
                        :correct answer

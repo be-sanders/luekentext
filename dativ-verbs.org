@@ -1,0 +1,16 @@
+#+TITLE: Dativ-Verben - Dative Verbs
+
+| Deutsch   | English              | Beispiele                       |
+|           |                      |                                 |
+| antworten | answer               | Antworten  Sie  mir!            |
+| danken    | thank                | Ich danke dir.                  |
+| fehlen    | be missing           | Du fehlst mir.                  |
+| folgen    | follow               | Bitte folgen Sie mir!           |
+| gefallen  | like; be pleasing to | Dein Hemd gefällt mir.          |
+| gehören   | belong to            | Das Buch gehört mir, nicht dir. |
+| glauben   | believe              | Er glaubte mir nicht.           |
+| helfen    | help                 | Hilf deinem Bruder!             |
+| Leid tun  | be sorry             | Es tut mir Leid.                |
+| passieren | to happen (to)       | Was ist dir passiert?           |
+| verzeihen | pardon; forgive      | Ich kann ihm nicht verzeihen.   |
+| wehtun    | to hurt              | Wo tut es Ihnen weh?            |
