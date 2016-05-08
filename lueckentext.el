@@ -7,9 +7,9 @@
 
 (setq my-name "Brian")
 
-(defun brian/initialize-sample()
+(defun brian/initialize-sample(buff_file_n)
   ;;(insert "In einem groß[en] Haus lebten eine grau[e] Katze und eine braun[e] Maus.")
-  (insert-file-contents "Quiz201.org")
+  (insert-file-contents buff_file_n)
   )
 
 (defun brian/check-answer-correct (widget &rest ignore)
@@ -33,16 +33,22 @@
     )
    (t (message "Wrong!"))))
 
+(defun brian/tabulate-quiz()
+  (widget-move 1)
+  (while (widget-forward(1))
+    message("hello")))
+
 (defun brian/make-luekentext (&optional context)
   "Create fill-in quiz"
   (interactive)
   ;;  (with-current-buffer (get-buffer-create "*test3*")
+  (setq my_buffer_name buffer-file-name)
   (switch-to-buffer-other-window "*test3*")
   (kill-all-local-variables)
   (let ((inhibit-read-only t))
     (erase-buffer))
   (remove-overlays)
-  (brian/initialize-sample)
+  (brian/initialize-sample my_buffer_name)
   (goto-char (point-min))
   (while (re-search-forward "[\[]" nil t)
     (progn 
@@ -66,10 +72,11 @@
   (widget-setup)
   (goto-char (point-min))
   (widget-forward 1)
-  ;;(widget-insert "\n")
+  ;; (widget-insert "\n\n")
   ;; (widget-create 'push-button
   ;;                :notify (lambda (&rest ignore)
-  ;;                          (message "I'm not sure what to do here."))
+  ;;                          (message "I'm not sure what to do here.")
+  ;;                          (brian/tabulate-quiz))
   ;;                "Submit")
   )
 

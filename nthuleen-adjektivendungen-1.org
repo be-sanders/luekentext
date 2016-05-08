@@ -1,0 +1,92 @@
+#+TITLE: Antworten zum Arbeitsblatt: Adjektivendungen 1
+
+* A. Frage 1: Artikel? These nouns have no articles before them, so the answer to question 1 is ‘no’.
+
+1.	Deutsch[es] Brot (n) schmeckt immer gut.  	8.	Mein Vater darf fett[es] Fleisch (n) nicht essen.
+2.	Wir können hier frisch[en] Käse (m) kaufen.  	9.	Ich möchte arm[en] Leuten (pl) helfen (=dative verb!).
+3.	Klein[e] Kinder (pl) sind immer freundlich.  	10.	Jung[er] Mann (m), was machst du da?
+4.	Im Gasthof Luitpold gibt es originell[e] Musik (f).  	11.	Einig[e] faul[e] Studenten (pl) haben nichts gelernt.
+5.	Stark[er] Kaffee (m) schmeckt besser mit kalt[er] Milch (f).  	12.	Hier finden wir bayrisch[e] Spezialitäten (pl).
+6.	Er trinkt gern heiß[en] Tee (m) mit frisch[em] Honig (m).  	13.	Jung[e] Studentin (f) sucht neu[e] Mitbewohnerin (f).
+7.	Wir essen heiß[e] Suppe (f) mit gekocht[em] Fleisch (n).  	14.	Ich möchte viel[e] schnell[e] Autos (pl) haben.
+
+
+* B. Frage 2: In origineller Form? These nouns are in oblique cases (e.g. accusative or dative), so the answer to question 2 is ‘no’.
+
+1.	Ich studiere an einer amerikanisch[en] Universität (f).  	7.	Ich will diesen kalt[en] Kaffee (m) nicht trinken.
+2.	Ich habe einen braun[en] Schreibtisch (m).  	8.	Das ist die Tochter von meinem lieb[en] Onkel (m).
+3.	Sie sitzt in dem neu[en] (n) Auto.  	9.	Ich hoffe auf einen lang[en] Sommer (m).
+4.	Wir sind sind mit unseren gut[en] Freunden (pl) gefahren.  	10.	In allen groß[en] Städten (pl) gibt es eine U-Bahn.
+5.	Maria ist der Name von einer gut[en] Freundin (f).  	11.	Er hat seinem klein[en] Bruder (m) eine CD gegeben.
+6.	Mit deinem alt[en] Computer (m) kannst du nicht viel machen.  	12.	Am Wochenende werde ich einen gut[en] Film (m) sehen.
+
+
+* C. Frage 3: Singular oder Plural? These nouns are all plural (they are NOT singular), so the answer to question 3 is ‘no’.
+
+1.	Wo hast du diese neu[en] Schuhe (pl) gekauft?  	3.	Es gibt keine dumm[en] Fragen (pl).
+2.	Ich habe keine gut[en] Freunde (pl).  	4.	Unsere neu[en] Bücher (pl) sind hier.
+
+
+* D. Frage 4: Zeigt Geschlecht? These nouns are preceded by articles that do NOT indicate what gender they are, so the answer to question 4 is ‘no’.
+
+1. Mein best[er] Freund (m) heißt Norbert.  	4.	Sie hat mir ihr blau[es] Kleid (n) gegeben.
+2. Unser groß[es] Buch (n) liegt auf dem Tisch.  	5.	Rechtsanwalt ist ein schwierig[er] Beruf (m).
+3. Das ist ein hoh[er] Preis (m) für ein klein[es] Objekt (n)!  	6.	Ich möchte euer neu[es] Auto (n) kaufen.
+
+
+* E. Ja, es zeigt Geschlecht. These nouns are preceded by articles that DO show their gender, so the answer to question 4 is ‘yes’.
+
+1.	Der jung[e] Mann (m) bringt seine klein[e] Katze (f) mit.  	4.	Welches deutsch[e] Buch (n) kaufst du?
+2.	Wir haben eine elegant[e] Frau (f) im Saal gesehen.  	5.	Wo ist der letzt[e] Brief (m) von Hans?
+3.	Jedes klein[e] Kind (n) kennt das Märchen ‘Rumpelstilzchen’.  	6.	Die nett[e] Frau (f) hat das rot[e] Hemd (n) gekauft.
+
+
+* F. Gemischt! In the mixed sentences below, you’ll need to determine for yourself which question applies. Remember to follow the flow chart in order!
+
+1.	Wir verkaufen unser alt[es] Haus (n).  	10.	Frisch[es] Brot (n) schmeckt sehr gut.
+2.	Kennst du einen gut[en] Mechaniker (m)?  	11.	Fritz kommt aus einer klein[en] Stadt (f).
+3.	Sandra spricht mit jeder freundlich[en] Person (f).  	12.	Ich kaufe sein schön[es] Auto (n).
+4.	Erik ist ein gut[er] Freund (m) von mir.  	13.	Ich laufe zu dem klein[en] Park (m) um die Ecke.
+5.	Hans trägt braun[e] Schuhe (pl).  	14.	Herr Schmidt braucht einen neu[en] Fernseher (m).
+6.	Das ist ein rund[er] Tisch (m).  	15.	Ich kaufe diese billig[e] Uhr (f) nicht.
+7.	Dieses klein[e] Kind (n) spielt mit schön[en] Puppen (pl).  	16.	Haben sie deutsch[en] Wein (m)?
+8.	Trinken Sie kalt[e] Milch (f)?  	17.	Helfen Sie diesem alt[en] Mann! (m)
+9.	Annegret spielt mit dem klein[en] Kind (n).  	18.	Letzt[en] Samstag (m) bin ich zwei Stunden gelaufen.
+
+
+* G. Sätze schreiben. Now try to translate these sentences, using correct adjective endings where needed.
+
+1.	The happy students speak good German with their (pick an adjective) teacher.
+ 	[Die glücklichen (fröhlichen, frohen) Studenten sprechen gutes Deutsch mit ihrem alten Lehrer (mit ihrer jungen Lehrerin)].
+
+2.	Old friends are the best (=best) friends.
+ 	[Alte Freunde sind die besten Freunde.]
+
+3.	Our old dog ate the new shoes of our friendly father.
+ 	[Unser alter Hund hat die neuen Schuhe von unserem freundlichen Vater gegessen.]
+
+4.	She went to a fantastic restaurant and saw a great (=toll) movie.
+ 	[Sie ist in ein fantastisches Restaurant gegangen und hat einen tollen Film gesehen.]
+
+5.	This new chapter has hard grammar and bad sentences.
+ 	[Dieses neue Kapitel hat schwere (schwierige) Grammatik und schlechte Sätze.]
+
+
+* H. Schon genug? If you’ve had enough practice, feel free to stop here. But if you have time and enough stamina, try filling in the endings in the following paragraphs -- on articles as well as adjectives. As you do this, see if you can move away from following your flow chart directly -- at some point, we hope you’ll be able to know the correct adjective ending without having to work through every single question.
+
+Note: you may need no ending at all on some articles or adjectives. If no ending is needed, place an X in the blank.
+
+Nominativ:
+D[er] schnell[e] Zug (m) fährt nach Lübeck. (Das ist ein[e] schön[e] Stadt (f)!) D[as] modern[e] Hotel (n) liegt am Hafen. Groß[e] Schiffe (pl) kommen an und fahren ab. Ein[X] alt[er] Mann (m), vielleicht der Kapitän, steht auf einem Schiff und raucht eine Zigarette.
+
+Akkusativ:
+Der Kapitän sieht in d[as] tief[e], klar[e] Wasser (n) und raucht sein[e] amerikanisch[e] Zigarette (f). Er hört laut[e], fröhlich[e] Kinder (pl) am Land und schaut sie an. Die Kinder laufen durch ein[en] klein[en] Park (m), denn sie haben einen jung[en], braun[en] Hund (m) gesehen!
+
+Dativ:
+Ich gehe aus mein[em] modern[en] Hotel (n) zum groß[en] Schiff (n). Ich spreche mit d[em] alt[en] Kapitän (m). Er sagt aber nichts. Im Park spielt der Hund mit viel[en] klein[en], laut[en] Kinder[n] (pl). Fische schwimmen in dem klar[en], blau[en] Wasser (n). Wir stehen unter d[er] heiß[en] Sonne (f).
+
+Mit ‘ein’-Wörtern:
+Meine klein[e] Schwester (f) zieht sich gern schön an. Heute trägt sie einen sehr modern[en] Hut (m) und einen braun[en] Mantel (m). Sie trägt meine grün[en], italienisch[en] Schuhe (pl) und einen weiß[en] Rock (m) mit einer schön[en] Seidenbluse (f). Ein groß[es] Problem (n) für sie ist, dass sie kein Geld hat, also kann sie sich keine teur[en] und schön[en] Kleider (pl) kaufen.
+
+Mit ‘der’-Wörtern:
+Dieser nett[e] Mann (m) ist sehr fleißig und hat viel Geld. Die lustig[e] Frau (f) von dem nett[en] Mann (m) heißt Annette. Das schnell[e], teur[e] Auto (n), das die reich[en] Leute (pl) haben, steht vor dem groß[en] Haus (n) auf der ruhig[en] Straße (f). Die klein[en] Kinder (pl) von den zwei reich[en] Leuten (pl) gehen in diese teur[e] Schule (f). Ihre Kleidung ist auch nicht billig[X]. Das ist typisch für diese snobistisch[en] Leute (pl)!

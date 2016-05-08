@@ -1,0 +1,92 @@
+#+TITLE: Antworten zum Arbeitsblatt: Relativpronomen 1
+
+* A. Relativpronomen im Nominativ, Akkusativ und Dativ. Complete the sentences to form relative clauses. In the first few, you’ll only need to fill in the relative pronoun, but in the later sentences, you will need to write the entire relative clause. Don’t forget to check gender and case, and to move the verb if needed!
+
+1.	Hier ist ein [Student]. [Er] arbeitet in der Buchhandlung.
+ 	  -  Hier ist ein Student, [der] in der Buchhandlung arbeitet.
+
+2.	Ich habe eine [Katze]. [Sie] schläft immer auf dem Sofa.
+ 	  -  Ich habe eine Katze, [die] immer auf dem Sofa schläft.
+
+3.	Das [Buch] handelt von der deutschen Politik. Hans hat [das Buch] gelesen.
+ 	  -  Das Buch, [das] Hans gelesen hat, handelt von der deutschen Politik.
+
+4.	Wie gefällt dir der [Wagen]? Ich habe [ihn] gestern gekauft.
+ 	  -  Wie gefällt dir der Wagen, [den] ich gestern gekauft habe?
+
+5.	Wo ist das [Auto]? Ich habe [es] gestern neben dem Haus geparkt.
+ 	  -  Wo ist das Auto,[ das ich gestern neben dem Haus geparkt habe]?
+
+6.	Das ist der [Mann]. [Er] ist nackt auf der Straße gelaufen.
+ 	  -  Das ist der Mann, [der nackt auf der Straße gelaufen ist].
+
+7.	Die [Frau] wohnt in Dresden. Du hast [ihr] geholfen.
+ 	  -  Die Frau, der du geholfen hast, wohnt in Dresden.
+
+8.	Die Tasche gefällt mir sehr. Du hast mir die Tasche gegeben.
+ 	  -  Die Tasche, [die du mir gegeben hast], gefällt mir sehr.
+
+9.	Das ist das nette Kind. Wir haben ihm etwas Geld gegeben.
+ 	  -  Das ist das nette Kind, [dem wir etwas Geld gegeben haben.]
+
+10.	Der Film war total langweilig. Wir haben den Film gestern gesehen.
+ 	  -  Der Film, [den wir gestern gesehen haben, war total langweilig.]
+
+* B. Relativpronomen mit Präpositionen. Now try some sentences with prepositions. Remember that you’ll always need to state the preposition before the relative pronoun (e.g. ‘the man to whom I’m talking’), and that the case of the relative pronoun will depend on the preposition.
+
+1.	Gefällt dir das Zimmer? Du wohnst in dem Zimmer.
+ 	  -  Gefällt dir das Zimmer, [in dem] du wohnst?
+
+2.	Das ist der Bus. Wir müssen immer auf den Bus warten.
+ 	  -  Das ist der Bus, [auf den] wir immer warten müssen.
+
+3.	Ich warte auf die Kinder. Ich habe mit ihnen gespielt.
+ 	  -  Ich warte auf die Kinder, [mit denen ich gespielt habe].
+
+4.	Ich habe die Bücher verloren. Ich kann ohne die Bücher nicht lernen.
+ 	  -  Ich habe die Bücher, [ohne die ich nicht lernen kann], verloren.
+
+5.	Der Bäcker hat sehr gutes Brot. Anna kauft ihr Brot bei dem Bäcker.
+ 	  -  Der Bäcker, [bei dem Anna ihr Brot kauft], hat sehr gutes Brot.
+
+6.	Meine Freundin kennt den Mann. Sie hat ein Haus von ihm gekauft.
+ 	  -  Meine Freundin kennt den Mann, [von dem sie ein Haus gekauft hat].
+
+7.	Die Kinder kommen aus Frankreich. Du denkst an die Kinder.
+ 	  -  Die Kinder, [an die du denkst], kommen aus Frankreich.
+
+8.	Das ist die Verkäuferin. Ich habe mich über sie geärgert.
+ 	  -  Das ist die Verkäuferin, [über die ich mich geärgert habe].
+
+* C. Definitionen. Relative pronouns are very common in definition statements (that’s a man from whom you buy bread, etc). Try to write your own definitions of the following things below. Remember to check the antecedent for gender, but the case of the relative pronoun will depend on the sentence you write.
+
+1.	Eine Zahnbürste ist ein Objekt (n), [mit dem man sich die Zähne putzt.]
+  ODER: ... das man in der Hand hat, wenn man sich die Zähne putzt..
+2.	Ein Makler ist ein Mann (m), [der Häuser verkauft].
+  ODER: ... zu dem man geht, wenn man ein Haus kaufen will.
+3.	Ein Föhn ist ein Apparat (m), [mit dem man sich die Haare trocknet].
+  ODER: ... den man benutzt, um die Haare zu föhnen.
+4.	Ein Schwein ist ein Tier (n), [das sehr viel isst].
+  ODER: ... von dem wir Speck bekommen..
+5.	Eine Ärztin ist eine Frau (f), [die kranken Leuten hilft].
+  ODER: ... zu der man geht, wenn man krank ist.
+6.	Ein Bioladen ist ein Geschäft (n), [in dem man gesundes Essen kaufen kann].
+  ODER: ... in das man geht, wenn man frisches Obst kaufen möchte.
+
+
+* D. Übersetzungen. In the sentences to translate below, the final sentence will use a relative pronoun, while the two sentences that precede it are to help you decide what case and gender to use and how to structure the sentence.
+
+1.	Do you know the man? He works here.	 -  [Kennst du den Mann? Er arbeitet hier].
+ 	Do you know the man who works here?	 -  [Kennst du den Mann, der hier arbeitet]?
+
+2.	That’s the man. I saw him yesterday.	 -  [Das ist der Mann. Ich habe ihn gestern gesehen].
+ 	That’s the man whom I saw yesterday.	 -  [Das ist der Mann, den ich gestern gesehen habe].
+
+3.	Who are the people? You were talking to them.	 - [ Wer sind die Leute? Du hast mit ihnen gesprochen].
+ 	Who are the people that you were talking to?	 -  [Wer sind die Leute, mit denen du gesprochen hast]?
+
+4.	The children have gone. You gave the book to them.	 - [ Die Kinder sind gegangen. Du hast ihnen das Buch gegeben].
+ 	The children that you gave the book to have gone.	 -  [Die Kinder, denen du das Buch gegeben hast, sind gegangen].
+
+5.	Is this the dog? You were afraid of him?	 - [ Ist das der Hund? Du hast Angst vor ihm gehabt].
+ 	Is this the dog that you were afraid of?	 - [Ist das der Hund, vor dem du Angst gehabt hast]?
