@@ -2,48 +2,48 @@
 
 * A. Relativpronomen im Nominativ, Akkusativ und Dativ. Complete the sentences to form relative clauses. In the first few, you’ll only need to fill in the relative pronoun, but in the later sentences, you will need to write the entire relative clause. Don’t forget to check gender and case, and to move the verb if needed!
 
-1.	Hier ist ein [Student]. [Er] arbeitet in der Buchhandlung.
+1.	Hier ist ein _Student_. _Er_ arbeitet in der Buchhandlung.
  	  -  Hier ist ein Student, [der] in der Buchhandlung arbeitet.
 
-2.	Ich habe eine [Katze]. [Sie] schläft immer auf dem Sofa.
+2.	Ich habe eine _Katze_. _Sie_ schläft immer auf dem Sofa.
  	  -  Ich habe eine Katze, [die] immer auf dem Sofa schläft.
 
-3.	Das [Buch] handelt von der deutschen Politik. Hans hat [das Buch] gelesen.
+3.	Das _Buch_ handelt von der deutschen Politik. Hans hat _das Buch_ gelesen.
  	  -  Das Buch, [das] Hans gelesen hat, handelt von der deutschen Politik.
 
-4.	Wie gefällt dir der [Wagen]? Ich habe [ihn] gestern gekauft.
+4.	Wie gefällt dir der _Wagen_? Ich habe _ihn_ gestern gekauft.
  	  -  Wie gefällt dir der Wagen, [den] ich gestern gekauft habe?
 
-5.	Wo ist das [Auto]? Ich habe [es] gestern neben dem Haus geparkt.
+5.	Wo ist das _Auto_? Ich habe _es_ gestern neben dem Haus geparkt.
  	  -  Wo ist das Auto,[ das ich gestern neben dem Haus geparkt habe]?
 
-6.	Das ist der [Mann]. [Er] ist nackt auf der Straße gelaufen.
+6.	Das ist der _Mann_. _Er_ ist nackt auf der Straße gelaufen.
  	  -  Das ist der Mann, [der nackt auf der Straße gelaufen ist].
 
-7.	Die [Frau] wohnt in Dresden. Du hast [ihr] geholfen.
- 	  -  Die Frau, der du geholfen hast, wohnt in Dresden.
+7.	Die _Frau_ wohnt in Dresden. Du hast _ihr_ geholfen.
+ 	  -  Die Frau, [der du geholfen hast], wohnt in Dresden.
 
 8.	Die Tasche gefällt mir sehr. Du hast mir die Tasche gegeben.
  	  -  Die Tasche, [die du mir gegeben hast], gefällt mir sehr.
 
 9.	Das ist das nette Kind. Wir haben ihm etwas Geld gegeben.
- 	  -  Das ist das nette Kind, [dem wir etwas Geld gegeben haben.]
+ 	  -  Das ist das nette Kind, [dem wir etwas Geld gegeben haben].
 
 10.	Der Film war total langweilig. Wir haben den Film gestern gesehen.
- 	  -  Der Film, [den wir gestern gesehen haben, war total langweilig.]
+ 	  -  Der Film, [den wir gestern gesehen haben, war total langweilig].
 
 * B. Relativpronomen mit Präpositionen. Now try some sentences with prepositions. Remember that you’ll always need to state the preposition before the relative pronoun (e.g. ‘the man to whom I’m talking’), and that the case of the relative pronoun will depend on the preposition.
 
-1.	Gefällt dir das Zimmer? Du wohnst in dem Zimmer.
+1.	Gefällt dir das _Zimmer_? Du wohnst _in dem Zimmer_.
  	  -  Gefällt dir das Zimmer, [in dem] du wohnst?
 
-2.	Das ist der Bus. Wir müssen immer auf den Bus warten.
+2.	Das ist der _Bus_. Wir müssen immer _auf den Bus_ warten.
  	  -  Das ist der Bus, [auf den] wir immer warten müssen.
 
-3.	Ich warte auf die Kinder. Ich habe mit ihnen gespielt.
+3.	Ich warte auf die _Kinder_. Ich habe _mit ihnen_ gespielt.
  	  -  Ich warte auf die Kinder, [mit denen ich gespielt habe].
 
-4.	Ich habe die Bücher verloren. Ich kann ohne die Bücher nicht lernen.
+4.	Ich habe die _Bücher_ verloren. Ich kann _ohne die Bücher_ nicht lernen.
  	  -  Ich habe die Bücher, [ohne die ich nicht lernen kann], verloren.
 
 5.	Der Bäcker hat sehr gutes Brot. Anna kauft ihr Brot bei dem Bäcker.
